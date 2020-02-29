@@ -1,0 +1,38 @@
+Title,Description,Author,Date
+Security Vulnerability with SQL Injection,"SQL Injection is a technique to maliciously exploit applications that use client-supplied data in SQL statements. Generally, the attackers trick the SQL engine into executing unintended commands by supplying specially crafted string input, thereby gaining unauthorized access to a database in order to view or manipulate restricted data.
+
+Too formal ? Lets keep it normal.
+
+SQL injection is a code injection technique that allows attackers to destroy your database. From the #Yahoo Attack to the latest #Starbucks accounting database hack, the SQL injection attacks represent upto two-thirds of all webapp attacks.
+
+Initially, to understand the vulnerability to SQL Injection attacks, one must be aware of those applications that are vulnerable. And this can be tested only when we launch attacks on our own applications to test the #effectiveness. Correct !!
+
+So, during our latest Flash talk, Aman and Rishabh being our Captains, we’ve discussed on those applications and the prevention techniques. Talking on the topic the duo also spoke on “Havij” an automated SQL Injection attack tool used by penetration testers to exploit SQL Injection vulnerabilities, making the session very knowledgeable.",Aman Prakash and Rishabh Nair,Feb 2020
+NFV - MANO,"“Acceleration of change” is one of the prime characteristics of the #DigitalRevolution and NFV is one of those technologies that is revolutionizing networks worldwide.
+
+NFV- Management and Orchestration, also called MANO, is an architectural framework for managing and orchestrating virtualized network functions and other software components which consists of the Virtualized Infrastructure Manager (VIM), VNF Manager (VNFM) and the NFV Orchestrator (NFVO). In simpler words MANO is what which is needed to reign in the Cloud and to create innovative services at a click of a button for the associated VNF's .
+
+The demand for the expertise in MANO is growing exponentially with more and more payloads moving into the cloud.
+
+When provided a platform to share his bright understanding on NFV-MANO, Siddharth Rai, our Tech Architect has just nailed it explaining it in a simpler way. Sid is an expert working on a #VPP (Vector Packet Processing) and DPDK based technologies in #IOT and 5G spsace. He also has rich experience in development and maintenance on telecom and cloud/virtualization based projects.",Siddarth Rai,Jan 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
+,,MR XYZ,Feb 2020
